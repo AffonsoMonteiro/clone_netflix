@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## 🚀 Tecnologias usadas:
+## 🚀 Technologies used:
 
 ✔️ ReactJS
 
