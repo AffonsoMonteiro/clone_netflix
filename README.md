@@ -5,7 +5,7 @@
 </div>
 
 <p>
-  O projeto clone_netflix é um clone apenas da página principal da Netflix, para esse projeto foi usa a API do site Themoviedb.org
+  The netflix clone project is only a clone of the Netflix main page, for this project it was using an API from the site Themoviedb.org
 </p>
 
 <div align="center">
@@ -23,6 +23,6 @@
 <hr/>
 
 <div align="center">
-    Direitos de imagem para Netflix<br/>
-    Dados pegos do site Themoviedb.org
+    Image rights for Netflix
+    
 </div>
