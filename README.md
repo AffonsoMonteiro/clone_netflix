@@ -19,3 +19,10 @@
 ✔️ API TMDB
 
 </div>
+
+<hr/>
+
+<div align="center">
+    Direitos de imagem para Netflix<br/>
+    Dados pegos do site Themoviedb.org
+</div>
