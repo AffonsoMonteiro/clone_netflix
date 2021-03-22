@@ -1,4 +1,4 @@
-<h1 align="center> Clone_Netflix </h1>
+  <h1 align="center"> Clone_Netflix </h1>
 
 <div align="center">
  <img src="./public/github/netflix.gif" alt="demo-web" height="425" />
