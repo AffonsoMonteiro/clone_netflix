@@ -23,6 +23,7 @@
 <hr/>
 
 <div align="center">
-   ### Image rights for Netflix
-    
+   <h3>
+     Image rights for Netflix
+   </h3>
 </div>
