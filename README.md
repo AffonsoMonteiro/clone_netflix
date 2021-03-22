@@ -1,6 +1,21 @@
-# clone_netflix
- O projeto clone_netflix é um clone apenas da página principal da Netflix, para esse projeto foi usa a API do site Themoviedb.org
+# Clone_Netflix
 
-<div>
- <img src="./public/github/netflix.gif" alt="demo-web" />
+<div align="center">
+ <img src="./public/github/netflix.gif" alt="demo-web" height="425" />
+</div>
+
+<p>
+  O projeto clone_netflix é um clone apenas da página principal da Netflix, para esse projeto foi usa a API do site Themoviedb.org
+</p>
+
+<div align="center">
+
+## 🚀 Tecnologias usadas:
+
+✔️ ReactJS
+
+✔️ CSS
+
+✔️ API TMDB
+
 </div>
